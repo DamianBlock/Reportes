@@ -1,4 +1,4 @@
-package com.mycompany.reportes;
+package com.todocodeacademy.reportes;
 
 import com.mycompany.reportes.persistencia.ControladoraPersistencia;
 

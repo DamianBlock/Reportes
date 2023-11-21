@@ -22,7 +22,7 @@ public class AlumnoJpaController implements Serializable {
     }
     
     public AlumnoJpaController(){
-    emf = Persistence.createEntityManagerFactory("JPAPU");
+    emf = Persistence.createEntityManagerFactory("com.todocodeacademy_Reportes_jar_1.0-SNAPSHOTPU");
     }
     
     private EntityManagerFactory emf = null;
